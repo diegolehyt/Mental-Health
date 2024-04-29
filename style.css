@@ -54,6 +54,7 @@
   .camara {
     height: auto;
     max-width: 100%;
+    scale: 0.75;
   }
   
   
